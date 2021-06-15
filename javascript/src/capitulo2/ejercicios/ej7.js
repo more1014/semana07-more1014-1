@@ -1,5 +1,5 @@
-let n=parseInt(prompt('digite el numero'));
+let n = parseInt(prompt('digite el numero'));
 
-let s=(n*(n+1))/2;
+let s = (n * (n + 1)) / 2;
 
-alert ("la suma es:"+s);
+alert('la suma es:' + s);
